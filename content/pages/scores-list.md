@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Scores List
 uid: 64308470-6076-7910-5149-57bb889abc57
 ---

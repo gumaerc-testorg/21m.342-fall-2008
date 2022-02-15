@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Video and Audio Classes
 uid: ab16a79b-761c-9962-2aab-933f201fb48a
 ---

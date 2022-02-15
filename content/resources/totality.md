@@ -2,6 +2,20 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: Assignments
+parent_type: CourseSection
+related_resources_text: '**Scores**
+
+
+  Concert ([PDF](resources/totality_conc "Open in a new window."))
+
+
+  Transposed ([PDF](resources/totality_trans "Open in a new window."))'
+resource_index_text: ''
 resourcetype: Video
 title: Totality
 uid: 8ba1f5f3-d722-b130-ed94-f183cdd180c3

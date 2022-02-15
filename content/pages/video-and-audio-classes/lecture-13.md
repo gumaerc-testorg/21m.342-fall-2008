@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Video and Audio Classes
+parent_type: CourseSection
 parent_uid: ab16a79b-761c-9962-2aab-933f201fb48a
 title: Lecture 13
 uid: 01512b35-e7d1-5acc-0caa-d5ab2bdaff1d
@@ -281,4 +284,4 @@ _Recommended Reading_
 
 Falceto, Francis. _Abyssinie Swing: A Pictorial History of Modern Ethiopian Music_. Addis Ababa, Ethiopia: Shama Books, 2001. ISBN: 9781931253093.
 
-[< back to lecture index]({{< baseurl >}}/pages/video-and-audio-classes)
+[\< back to lecture index]({{< baseurl >}}/pages/video-and-audio-classes)
