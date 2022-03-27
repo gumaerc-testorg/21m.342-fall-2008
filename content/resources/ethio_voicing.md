@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video and Audio Classes
 parent_type: CourseSection
+parent_uid: ab16a79b-761c-9962-2aab-933f201fb48a
 resourcetype: Document
 title: Ethiopian Voicings
 uid: 98183db3-82fe-e7ca-ba78-f0452482e303

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Video and Audio Classes
 parent_type: CourseSection
+parent_uid: ab16a79b-761c-9962-2aab-933f201fb48a
 resourcetype: Document
 title: Influences Toward the Postmodern Jazz Orchestra
 uid: 3efd0a06-563e-10d7-b577-0fe968f4348e
