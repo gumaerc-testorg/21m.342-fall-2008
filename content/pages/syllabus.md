@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 5de62709-fa7b-33b2-5cca-b5f8ca345c75
 ---
@@ -424,4 +425,4 @@ FJE performs final projects (cont.)
 
 {{< tableclose >}}
 
-During the subsequent Spring 2009 term, Walter Thompson returned to MIT for a Soundpainting performance with the Aardvark Jazz Orchestra.  See the [Video and Audio Classes]({{< baseurl >}}/pages/video-and-audio-classes) page for a recording of this concert.
+During the subsequent Spring 2009 term, Walter Thompson returned to MIT for a Soundpainting performance with the Aardvark Jazz Orchestra.  See the {{< resource_link ab16a79b-761c-9962-2aab-933f201fb48a "Video and Audio Classes" >}} page for a recording of this concert.

@@ -62,7 +62,7 @@ Video unavailable
 {{< tdopen colspan="2" >}}
 
 
-[lecture index]({{< baseurl >}}/pages/video-and-audio-classes) | [next lecture >]({{< baseurl >}}/pages/video-and-audio-classes/lecture-16)
+{{< resource_link ab16a79b-761c-9962-2aab-933f201fb48a "lecture index" >}} | [next lecture >]({{< baseurl >}}/pages/video-and-audio-classes/lecture-16)
 
 
 {{< tdclose >}}
@@ -276,12 +276,12 @@ Personal concert recording from Institute of Contemporary Art, Boston MA, Dec. 2
 
 _Ethiopian Modes and Voicings_
 
-Ethiopian modes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ethio_modes)) (Courtesy of Rick McLaughlin. Used with permission.)
+Ethiopian modes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link b1edfc5c-5281-6a7c-3ad6-529d2c6d5d79 "PDF" >}}) (Courtesy of Rick McLaughlin. Used with permission.)
 
-Voicings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ethio_voicing)) (Courtesy of Russ Gershon. Used with permission.)
+Voicings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 98183db3-82fe-e7ca-ba78-f0452482e303 "PDF" >}}) (Courtesy of Russ Gershon. Used with permission.)
 
 _Recommended Reading_
 
 Falceto, Francis. _Abyssinie Swing: A Pictorial History of Modern Ethiopian Music_. Addis Ababa, Ethiopia: Shama Books, 2001. ISBN: 9781931253093.
 
-[\< back to lecture index]({{< baseurl >}}/pages/video-and-audio-classes)
+{{< resource_link ab16a79b-761c-9962-2aab-933f201fb48a "\< back to lecture index" >}}

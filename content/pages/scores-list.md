@@ -2,11 +2,12 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Scores List
 uid: 64308470-6076-7910-5149-57bb889abc57
 ---
 
-The following scores are provided for student study. Most of these correspond to compositions on the [listening]({{< baseurl >}}/pages/listening) list, and a few are also used in [assignments]({{< baseurl >}}/pages/assignments).
+The following scores are provided for student study. Most of these correspond to compositions on the {{< resource_link 6939f00a-a1b7-4687-ceba-26054c4e9d21 "listening" >}} list, and a few are also used in {{< resource_link be10eded-77f1-c3e8-41f2-d0fd8f07ec67 "assignments" >}}.
 
 Some of these scores are commercially published, as noted. Others are from private or informal sources, and few others are of uncertain origin.
 

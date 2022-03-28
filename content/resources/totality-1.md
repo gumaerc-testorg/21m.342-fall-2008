@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: totality
 uid: 8ea38663-b0fd-c0c1-c493-faf3711e4406

@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Video and Audio Classes
 uid: ab16a79b-761c-9962-2aab-933f201fb48a
 ---
@@ -39,7 +40,7 @@ Ethiopian jazz and the Either/Orchestra (Guest lecturers: Mulatu Astatke and Rus
 {{< tdopen >}}
 
 
-[Recordings list and supplemental resources]({{< baseurl >}}/pages/video-and-audio-classes/lecture-13)
+{{< resource_link 01512b35-e7d1-5acc-0caa-d5ab2bdaff1d "Recordings list and supplemental resources" >}}
 
 
 {{< tdclose >}}

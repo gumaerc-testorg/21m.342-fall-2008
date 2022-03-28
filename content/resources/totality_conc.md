@@ -5,6 +5,7 @@ file: /media/courses/21m-342-composing-for-jazz-orchestra-fall-2008/eeabadd0433c
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 'Totality: Concert'
 uid: eeabadd0-433c-9991-03ae-b0e23635c06c

@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Listening
 uid: 6939f00a-a1b7-4687-ceba-26054c4e9d21
 ---
@@ -16,7 +17,7 @@ Three primary collections are indicated by abbreviated titles. (Unfortunately, t
 > 
 > \[SCCJ\] _Smithsonian Collection of Classic Jazz_. Smithsonian Collection of Recordings, 1987. 5 CDs.
 
-Compositions for which [scores]({{< baseurl >}}/pages/scores-list) are provided to students are marked with §.
+Compositions for which {{< resource_link 64308470-6076-7910-5149-57bb889abc57 "scores" >}} are provided to students are marked with §.
 
 {{< tableopen >}}
 {{< theadopen >}}

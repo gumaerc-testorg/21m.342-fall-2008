@@ -1,14 +1,15 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: '**Scores**
 
 
@@ -18,7 +19,6 @@ related_resources_text: '**Scores**
   Transposed ([PDF](resources/totality_trans "Open in a new window."))'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: Totality
 uid: 8ba1f5f3-d722-b130-ed94-f183cdd180c3
 video_files:

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: evening
 uid: 7b4fbad1-2cd1-a4c4-c088-b4ce59654b32
