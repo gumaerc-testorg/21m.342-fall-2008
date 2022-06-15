@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a course video.
-file: /media/courses/21m-342-composing-for-jazz-orchestra-fall-2008/8ea38663b0fdc0c1c493faf3711e4406_totality.jpg
+file: /courses/21m-342-composing-for-jazz-orchestra-fall-2008/8ea38663b0fdc0c1c493faf3711e4406_totality.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -9,8 +9,9 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
-parent_uid: null
 resourcetype: Image
 title: totality
 uid: 8ea38663-b0fd-c0c1-c493-faf3711e4406
 ---
+Thumbnail image accompanying a course video.
+

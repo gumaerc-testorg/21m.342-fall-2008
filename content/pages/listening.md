@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: This section provides compositions and recordings for the course. These
+  recordings are primarily organized by composer/arranger name. In cases where the
+  band that recorded the selection is more prominent, the name of the bandleader is
+  given, with the composer/arranger indicated in bracket.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Listening
 uid: 6939f00a-a1b7-4687-ceba-26054c4e9d21
 ---
@@ -17,7 +20,7 @@ Three primary collections are indicated by abbreviated titles. (Unfortunately, t
 > 
 > \[SCCJ\] _Smithsonian Collection of Classic Jazz_. Smithsonian Collection of Recordings, 1987. 5 CDs.
 
-Compositions for which {{< resource_link 64308470-6076-7910-5149-57bb889abc57 "scores" >}} are provided to students are marked with §.
+Compositions for which {{% resource_link 64308470-6076-7910-5149-57bb889abc57 "scores" %}} are provided to students are marked with §.
 
 {{< tableopen >}}
 {{< theadopen >}}

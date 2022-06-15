@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video and Audio Classes
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Spring 2009 Event '
 uid: 76b1bf24-becd-05d0-2f52-b47ca4d6ea74
 video_files:
@@ -26,3 +27,6 @@ video_metadata:
 **Topics covered:** Soundpainting performance by Aardvark Jazz Orchestra
 
 **Instructor:** Walter Thompson, Mark Harvey
+
+
+

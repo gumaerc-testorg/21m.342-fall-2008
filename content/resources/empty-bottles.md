@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Assignments
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Assignments
 parent_type: CourseSection
-parent_uid: null
-related_resources_text: Concert ([PDF](resources/empty_bottles))
+related_resources_text: Concert ([PDF](/courses/21m-342-composing-for-jazz-orchestra-fall-2008/resources/empty_bottles))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Empty Bottles
 uid: 2d39007d-a53d-6210-2e48-51d5b2133ae8
 video_files:
@@ -31,3 +32,6 @@ video_metadata:
 **Performed by:** Aardvark Jazz Orchestra
 
 **Director:** Dr. Mark Harvey
+
+
+
