@@ -1,150 +1,71 @@
 ---
 content_type: page
+description: This section provides links to recordings and videos used in the class.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Video and Audio Classes
 uid: ab16a79b-761c-9962-2aab-933f201fb48a
 ---
-
 This page presents material for selected lectures and outside class sessions. The links go to webpages listing recordings and other resources used in the class.
 
 SES # key:
 
-*   L = lecture session
-*   E = required outside event: rehearsal, workshop or performance
+- L = lecture session
+- E = required outside event: rehearsal, workshop or performance
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 RECORDINGS AND Resources
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 L13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Ethiopian jazz and the Either/Orchestra (Guest lecturers: Mulatu Astatke and Russ Gershon)
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-{{< resource_link 01512b35-e7d1-5acc-0caa-d5ab2bdaff1d "Recordings list and supplemental resources" >}}
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 01512b35-e7d1-5acc-0caa-d5ab2bdaff1d "Recordings list and supplemental resources" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Gil Evans / Miles Davis collaborations (Guest lecturer: Steve Lajoie)
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Audio lecture]({{< baseurl >}}/pages/video-and-audio-classes/lecture-16)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+\[Audio lecture\]({{< baseurl >}}/pages/video-and-audio-classes/lecture-16)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 George Russell and modal jazz
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Audio lecture]({{< baseurl >}}/pages/video-and-audio-classes/lecture-17)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+\[Audio lecture\]({{< baseurl >}}/pages/video-and-audio-classes/lecture-17)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Afro-Cuban music and bebop (Guest lecturer: Bill Lowe)
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Audio lecture]({{< baseurl >}}/pages/video-and-audio-classes/lecture-18)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+\[Audio lecture\]({{< baseurl >}}/pages/video-and-audio-classes/lecture-18)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Postmodern approaches
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-[Audio lecture]({{< baseurl >}}/pages/video-and-audio-classes/lecture-20)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+\[Audio lecture\]({{< baseurl >}}/pages/video-and-audio-classes/lecture-20)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Soundpainting class with Walter Thompson
-{{< tdclose >}}
-{{< tdopen >}}
-[Audio and video lecture]({{< baseurl >}}/pages/video-and-audio-classes/lecture-21)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 06ca7d5b-ba62-e9ce-5d82-612419b7d4ed "Audio and video lecture" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 E10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Soundpainting workshop with MIT Festival Jazz Ensemble and Walter Thompson
-{{< tdclose >}}
-{{< tdopen >}}
-[Audio and video lecture]({{< baseurl >}}/pages/video-and-audio-classes/event-10)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link d2aae460-a4b8-d7bf-7515-7951dc186f2f "Audio and video lecture" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Spring 2009 event
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Soundpainting performance by Aardvark Jazz Orchestra with Walter Thompson and Mark Harvey
-{{< tdclose >}}
-{{< tdopen >}}
-[Audio and video lecture]({{< baseurl >}}/pages/video-and-audio-classes/spring-2009-event)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< tdopen >}}
+{{% resource_link 76b1bf24-becd-05d0-2f52-b47ca4d6ea74 "Audio and video lecture" %}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
