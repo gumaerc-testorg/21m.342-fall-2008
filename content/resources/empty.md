@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: empty
 uid: 5e4090e1-7f5e-5331-9971-b362eb0a7bc8
 ---
 Thumbnail image accompanying a course video.
-

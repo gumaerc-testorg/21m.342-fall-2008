@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: concert
 uid: 8d9c70e1-e3bd-b053-1792-934389e7aacf
 ---
 Thumbnail image accompanying a course video.
-

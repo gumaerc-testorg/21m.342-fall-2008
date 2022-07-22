@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: totality
 uid: 8ea38663-b0fd-c0c1-c493-faf3711e4406
 ---
 Thumbnail image accompanying a course video.
-
