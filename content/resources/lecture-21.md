@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video and Audio Classes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21 '
 uid: 06ca7d5b-ba62-e9ce-5d82-612419b7d4ed
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Topics covered:** Soundpainting class
 
 **Instructor:** Walter Thompson
+

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on readings assigned for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e9c5b9df-9c95-8443-fa15-dcbca908027b
 ---
@@ -36,6 +40,6 @@ Russo, William. _Jazz Composition and Orchestration_. Chicago, IL: University of
 
 ———. _Composing for Jazz Orchestra_. Chicago, IL: University of Chicago Press, 1973. ISBN: 9780226732091.
 
-Schuller, Gunther. Liner notes for _Mirage: Avant-Garde and Third Stream Jazz_. New World Records 80216, 1977. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://nwr-site-liner-notes.s3.amazonaws.com/80216.pdf))
+Schuller, Gunther. Liner notes for _Mirage: Avant-Garde and Third Stream Jazz_. New World Records 80216, 1977. ([PDF](https://nwr-site-liner-notes.s3.amazonaws.com/80216.pdf))
 
 Sturm, Fred. _Changes Over Time: The Evolution of Jazz Arranging_ (with CD). Rottenburg, Germany: Advance Music, 1995.

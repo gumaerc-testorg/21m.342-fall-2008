@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section describes the assignments and provides examples of student
+  work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: be10eded-77f1-c3e8-41f2-d0fd8f07ec67
 ---
@@ -448,14 +453,14 @@ PERFORMANCE VIDEOS
 {{< tdopen >}}
 
 
-Concert ([PDF]({{< baseurl >}}/resources/totality_conc))
+Concert ({{% resource_link eeabadd0-433c-9991-03ae-b0e23635c06c "PDF" %}})
 
-Transposed ([PDF]({{< baseurl >}}/resources/totality_trans))
+Transposed ({{% resource_link 15618f0e-6d94-a9ae-352f-1ad011c8ac80 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Audio and video]({{< baseurl >}}/resources/totality)
+{{% resource_link 8ba1f5f3-d722-b130-ed94-f183cdd180c3 "Audio and video" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -466,12 +471,12 @@ Transposed ([PDF]({{< baseurl >}}/resources/totality_trans))
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/empty_bottles))
+({{% resource_link 1d61ec12-3365-6eb9-4dfc-f9e4642b5304 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Audio and video]({{< baseurl >}}/resources/empty-bottles)
+{{% resource_link 2d39007d-a53d-6210-2e48-51d5b2133ae8 "Audio and video" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
