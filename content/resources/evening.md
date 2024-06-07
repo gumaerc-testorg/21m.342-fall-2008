@@ -2,6 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a course video.
 file: /courses/21m-342-composing-for-jazz-orchestra-fall-2008/7b4fbad12cd1a4c4c088b4ce59654b32_evening.jpg
+file_size: 3693
 file_type: image/jpeg
 image_metadata:
   caption: ''
