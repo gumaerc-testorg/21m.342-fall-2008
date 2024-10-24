@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture supplement on Ethiopian Voicings.
-file: /courses/21m-342-composing-for-jazz-orchestra-fall-2008/98183db382fee7caba78f0452482e303_ethio_voicing.pdf
+file: /ol-ocw-studio-app/courses/21m-342-composing-for-jazz-orchestra-fall-2008/98183db382fee7caba78f0452482e303_ethio_voicing.pdf
 file_size: 1782588
 file_type: application/pdf
 learning_resource_types: []
