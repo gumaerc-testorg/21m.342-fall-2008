@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work.
-file: /courses/21m-342-composing-for-jazz-orchestra-fall-2008/1d61ec1233656eb94dfcf9e4642b5304_empty_bottles.pdf
+file: /ol-ocw-studio-app/courses/21m-342-composing-for-jazz-orchestra-fall-2008/1d61ec1233656eb94dfcf9e4642b5304_empty_bottles.pdf
 file_size: 306055
 file_type: application/pdf
 learning_resource_types: []

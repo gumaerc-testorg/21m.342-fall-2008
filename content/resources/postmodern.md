@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of the influences toward the postmodern jazz orchestra.
-file: /courses/21m-342-composing-for-jazz-orchestra-fall-2008/3efd0a06563e10d7b5770fe968f4348e_postmodern.pdf
+file: /ol-ocw-studio-app/courses/21m-342-composing-for-jazz-orchestra-fall-2008/3efd0a06563e10d7b5770fe968f4348e_postmodern.pdf
 file_size: 110491
 file_type: application/pdf
 learning_resource_types: []
