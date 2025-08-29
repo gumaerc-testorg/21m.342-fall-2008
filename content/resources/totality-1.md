@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying a course video.
-file: /courses/21m-342-composing-for-jazz-orchestra-fall-2008/8ea38663b0fdc0c1c493faf3711e4406_totality.jpg
+file: /ol-ocw-studio-app/courses/21m-342-composing-for-jazz-orchestra-fall-2008/8ea38663b0fdc0c1c493faf3711e4406_totality.jpg
 file_size: 3638
 file_type: image/jpeg
 image_metadata:

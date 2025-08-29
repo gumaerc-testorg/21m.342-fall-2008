@@ -46,10 +46,11 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Projects with Examples",
-    "Music",
+    "Music Audio",
     "Activity Assignments"
   ],
   "site_uid": "8b3c82b4-6ece-4cfc-9463-1f868087a380",
   "site_short_id": "21m.342-fall-2008",
+  "site_url_path": "courses/21m-342-composing-for-jazz-orchestra-fall-2008",
   "title": "Course Metadata"
 }
