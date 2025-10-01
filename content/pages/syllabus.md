@@ -28,7 +28,7 @@ Three special features of this course are:
 2.  **Performance** of Mid Term and Final Projects by these ensembles
 3.  **Guest lecturers**, including Dr. Fred Harris, director of the Festival Jazz Ensemble, experts on the blending of Afro-Cuban and Ethiopian music with jazz, and the Gil Evans / Miles Davis collaborations, as well as the internationally renowned composer Walter Thompson.
 
-[Mark Harvey bio page](http://web.mit.edu/music/facstaff/harvey.html)
+{{% resource_link "ea10779b-d7a3-4f52-931e-513cda66a769" "Mark Harvey bio page" %}}
 
 Textbook
 --------
@@ -40,7 +40,7 @@ Requirements
 
 1.  Class attendance and participation (please bring music paper to each class)
 2.  Weekly listening, analysis, and composition assignments
-3.  Attendance at and reports on open rehearsals and performances by the [MIT Festival Jazz Ensemble](http://web.mit.edu/fje/www/) \[FJE\] and the [Aardvark Jazz Orchestra](http://www.aardvarkjazz.com/) \[AJO\] as scheduled throughout the term
+3.  Attendance at and reports on open rehearsals and performances by the {{% resource_link "18811f73-45f8-4b7e-a404-53000caeb38e" "MIT Festival Jazz Ensemble" %}} \[FJE\] and the {{% resource_link "573b38be-1c33-464e-aa34-41e0fa5dc032" "Aardvark Jazz Orchestra" %}} \[AJO\] as scheduled throughout the term
 4.  A mid-term project to be performed by members of the AJO
 5.  A final project to be performed by the AJO or the FJE as concluding class sessions
 
@@ -63,8 +63,8 @@ Session Key:
 *   L = Lecture
 *   E = Required event outside of class: rehearsal, workshop or performance
 
-FJE: [MIT Festival Jazz Ensemble](http://web.mit.edu/fje/www/)  
-AJO: [Aardvark Jazz Orchestra](http://www.aardvarkjazz.com/)
+FJE: {{% resource_link "18811f73-45f8-4b7e-a404-53000caeb38e" "MIT Festival Jazz Ensemble" %}}  
+AJO: {{% resource_link "573b38be-1c33-464e-aa34-41e0fa5dc032" "Aardvark Jazz Orchestra" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
